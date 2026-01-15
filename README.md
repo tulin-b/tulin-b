@@ -2,14 +2,16 @@
 
 I'm Tulin, a full-time MASc student based in London.
 
-I design and build whatever I can imagine to develop my web development skills.
+I design and build around what inspires me to develop my web development skills.
 
 Currently learning HTML, CSS and JavaScript as well as GD Script for a super special project!
 
 Fun facts:
-🐈‍⬛ Cat person but I do not have any cats :(
+🐈‍⬛ Cat person with no cats :(
 ☕️ Coffee lover!
-🎭 Lighting designer / Production technician
+🎭 Lighting designer 
+
+<a href="https://app.daily.dev/tulinb3"><img src="https://api.daily.dev/devcards/v2/ghghxT7G0FNsKRXH0p2tb.png?type=default&r=tsj" width="356" alt="Tulin Bayramoglu's Dev Card"/></a>
 
 <!--
 **tulin-b/tulin-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,3 +27,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
