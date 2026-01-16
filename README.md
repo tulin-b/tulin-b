@@ -11,7 +11,7 @@ Fun facts:
 ☕️ Coffee lover!
 🎭 Lighting designer 
 
-<a href="https://app.daily.dev/tulinb3"><img src="https://api.daily.dev/devcards/v2/ghghxT7G0FNsKRXH0p2tb.png?type=default&r=tsj" width="356" alt="Tulin Bayramoglu's Dev Card"/></a>
+<a href="https://app.daily.dev/tulinb3"><img src="https://api.daily.dev/devcards/v2/ghghxT7G0FNsKRXH0p2tb.png?type=wide&r=7s1" width="652" alt="Tulin Bayramoglu's Dev Card"/></a>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/tulin.bayramoglu.22.png" alt="Your Image Badge" />
 
