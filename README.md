@@ -12,7 +12,8 @@ Fun facts:
 🎭 Lighting designer 
 
 <a href="https://app.daily.dev/tulinb3"><img src="https://api.daily.dev/devcards/v2/ghghxT7G0FNsKRXH0p2tb.png?type=default&r=tsj" width="356" alt="Tulin Bayramoglu's Dev Card"/></a>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6689666" style='border:none;'></iframe>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/tulin.bayramoglu.22.png" alt="Your Image Badge" />
 
 <!--
 **tulin-b/tulin-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
